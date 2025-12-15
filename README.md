@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Poovitha54/leetcode-java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/Poovitha54/leetcode-java/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Poovitha54/leetcode-java/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Poovitha54/leetcode-java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Poovitha54/leetcode-java/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Poovitha54/leetcode-java/tree/master/2525-categorize-box-according-to-criteria) |
 | [2652-sum-multiples](https://github.com/Poovitha54/leetcode-java/tree/master/2652-sum-multiples) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/Poovitha54/leetcode-java/tree/master/2236-root-equals-sum-of-children) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Poovitha54/leetcode-java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
