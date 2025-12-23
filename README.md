@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Poovitha54/leetcode-java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Poovitha54/leetcode-java/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
