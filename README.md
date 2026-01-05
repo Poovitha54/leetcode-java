@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Poovitha54/leetcode-java/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Poovitha54/leetcode-java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Poovitha54/leetcode-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Poovitha54/leetcode-java/tree/master/0342-power-of-four) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poovitha54/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Poovitha54/leetcode-java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Poovitha54/leetcode-java/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Poovitha54/leetcode-java/tree/master/0168-excel-sheet-column-title) |
 ## Hash Table
 |  |
 | ------- |
