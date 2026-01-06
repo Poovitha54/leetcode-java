@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Poovitha54/leetcode-java/tree/master/0242-valid-anagram) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Poovitha54/leetcode-java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Array
 |  |
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Poovitha54/leetcode-java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Poovitha54/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Poovitha54/leetcode-java/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/Poovitha54/leetcode-java/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Poovitha54/leetcode-java/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Poovitha54/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Poovitha54/leetcode-java/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
