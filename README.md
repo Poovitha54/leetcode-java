@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Poovitha54/leetcode-java/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Poovitha54/leetcode-java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/Poovitha54/leetcode-java/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/Poovitha54/leetcode-java/tree/master/0925-long-pressed-name) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Poovitha54/leetcode-java/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Poovitha54/leetcode-java/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Poovitha54/leetcode-java/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/Poovitha54/leetcode-java/tree/master/0925-long-pressed-name) |
 ## String Matching
 |  |
 | ------- |
