@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Poovitha54/leetcode-java/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Poovitha54/leetcode-java/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Poovitha54/leetcode-java/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Poovitha54/leetcode-java/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/Poovitha54/leetcode-java/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Poovitha54/leetcode-java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Poovitha54/leetcode-java/tree/master/1323-maximum-69-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Poovitha54/leetcode-java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Poovitha54/leetcode-java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Poovitha54/leetcode-java/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Poovitha54/leetcode-java/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Poovitha54/leetcode-java/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Poovitha54/leetcode-java/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
