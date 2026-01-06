@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Poovitha54/leetcode-java/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Poovitha54/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
+| [0748-shortest-completing-word](https://github.com/Poovitha54/leetcode-java/tree/master/0748-shortest-completing-word) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Poovitha54/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Poovitha54/leetcode-java/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Poovitha54/leetcode-java/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Poovitha54/leetcode-java/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/Poovitha54/leetcode-java/tree/master/0748-shortest-completing-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Poovitha54/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Poovitha54/leetcode-java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Poovitha54/leetcode-java/tree/master/0389-find-the-difference) |
+| [0748-shortest-completing-word](https://github.com/Poovitha54/leetcode-java/tree/master/0748-shortest-completing-word) |
 ## Two Pointers
 |  |
 | ------- |
