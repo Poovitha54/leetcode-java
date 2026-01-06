@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Poovitha54/leetcode-java/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Poovitha54/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 | [0748-shortest-completing-word](https://github.com/Poovitha54/leetcode-java/tree/master/0748-shortest-completing-word) |
+| [0819-most-common-word](https://github.com/Poovitha54/leetcode-java/tree/master/0819-most-common-word) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Poovitha54/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Poovitha54/leetcode-java/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Poovitha54/leetcode-java/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/Poovitha54/leetcode-java/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/Poovitha54/leetcode-java/tree/master/0819-most-common-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Poovitha54/leetcode-java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Poovitha54/leetcode-java/tree/master/0389-find-the-difference) |
 | [0748-shortest-completing-word](https://github.com/Poovitha54/leetcode-java/tree/master/0748-shortest-completing-word) |
+| [0819-most-common-word](https://github.com/Poovitha54/leetcode-java/tree/master/0819-most-common-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Poovitha54/leetcode-java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Poovitha54/leetcode-java/tree/master/0415-add-strings) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/Poovitha54/leetcode-java/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
