@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Poovitha54/leetcode-java/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Poovitha54/leetcode-java/tree/master/0389-find-the-difference) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Poovitha54/leetcode-java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Poovitha54/leetcode-java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Poovitha54/leetcode-java/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Poovitha54/leetcode-java/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Poovitha54/leetcode-java/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Poovitha54/leetcode-java/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Poovitha54/leetcode-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
@@ -90,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Poovitha54/leetcode-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Poovitha54/leetcode-java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Poovitha54/leetcode-java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Poovitha54/leetcode-java/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Poovitha54/leetcode-java/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Poovitha54/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Poovitha54/leetcode-java/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Poovitha54/leetcode-java/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
