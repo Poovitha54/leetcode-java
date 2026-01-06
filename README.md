@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Poovitha54/leetcode-java/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Poovitha54/leetcode-java/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Poovitha54/leetcode-java/tree/master/0748-shortest-completing-word) |
+| [0796-rotate-string](https://github.com/Poovitha54/leetcode-java/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poovitha54/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Poovitha54/leetcode-java/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Poovitha54/leetcode-java/tree/master/0796-rotate-string) |
 ## Union Find
 |  |
 | ------- |
