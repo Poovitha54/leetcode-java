@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Poovitha54/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 | [0748-shortest-completing-word](https://github.com/Poovitha54/leetcode-java/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/Poovitha54/leetcode-java/tree/master/0819-most-common-word) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Poovitha54/leetcode-java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Poovitha54/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Poovitha54/leetcode-java/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/Poovitha54/leetcode-java/tree/master/1025-divisor-game) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Poovitha54/leetcode-java/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Brainteaser
 |  |
 | ------- |
