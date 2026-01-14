@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Poovitha54/leetcode-java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Poovitha54/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Poovitha54/leetcode-java/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3454-separate-squares-ii](https://github.com/Poovitha54/leetcode-java/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Poovitha54/leetcode-java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Poovitha54/leetcode-java/tree/master/3454-separate-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Poovitha54/leetcode-java/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Poovitha54/leetcode-java/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
