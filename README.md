@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Poovitha54/leetcode-java/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/Poovitha54/leetcode-java/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Poovitha54/leetcode-java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Poovitha54/leetcode-java/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Poovitha54/leetcode-java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Poovitha54/leetcode-java/tree/master/0389-find-the-difference) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Poovitha54/leetcode-java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Poovitha54/leetcode-java/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Poovitha54/leetcode-java/tree/master/0819-most-common-word) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Poovitha54/leetcode-java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Poovitha54/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Poovitha54/leetcode-java/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Bit Manipulation
 |  |
 | ------- |
