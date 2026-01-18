@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Poovitha54/leetcode-java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Poovitha54/leetcode-java/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/Poovitha54/leetcode-java/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Poovitha54/leetcode-java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Poovitha54/leetcode-java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Poovitha54/leetcode-java/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Poovitha54/leetcode-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Poovitha54/leetcode-java/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/Poovitha54/leetcode-java/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Poovitha54/leetcode-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Poovitha54/leetcode-java/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Hash Table
 |  |
 | ------- |
