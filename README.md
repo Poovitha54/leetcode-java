@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Poovitha54/leetcode-java/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/Poovitha54/leetcode-java/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Poovitha54/leetcode-java/tree/master/0944-delete-columns-to-make-sorted) |
+| [1002-find-common-characters](https://github.com/Poovitha54/leetcode-java/tree/master/1002-find-common-characters) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Poovitha54/leetcode-java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Poovitha54/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Poovitha54/leetcode-java/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Poovitha54/leetcode-java/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/Poovitha54/leetcode-java/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Poovitha54/leetcode-java/tree/master/0944-delete-columns-to-make-sorted) |
+| [1002-find-common-characters](https://github.com/Poovitha54/leetcode-java/tree/master/1002-find-common-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Poovitha54/leetcode-java/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Poovitha54/leetcode-java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/Poovitha54/leetcode-java/tree/master/0929-unique-email-addresses) |
+| [1002-find-common-characters](https://github.com/Poovitha54/leetcode-java/tree/master/1002-find-common-characters) |
 ## Two Pointers
 |  |
 | ------- |
