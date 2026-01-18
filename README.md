@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Poovitha54/leetcode-java/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/Poovitha54/leetcode-java/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Poovitha54/leetcode-java/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1154-day-of-the-year](https://github.com/Poovitha54/leetcode-java/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Poovitha54/leetcode-java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Poovitha54/leetcode-java/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Poovitha54/leetcode-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Poovitha54/leetcode-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Poovitha54/leetcode-java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Poovitha54/leetcode-java/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/Poovitha54/leetcode-java/tree/master/1154-day-of-the-year) |
 ## Hash Table
 |  |
 | ------- |
