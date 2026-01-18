@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Poovitha54/leetcode-java/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Poovitha54/leetcode-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Poovitha54/leetcode-java/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1108-defanging-an-ip-address](https://github.com/Poovitha54/leetcode-java/tree/master/1108-defanging-an-ip-address) |
 ## Hash Table
 |  |
 | ------- |
