@@ -1,24 +1,19 @@
-class Solution {
-    public String[] uncommonFromSentences(String s1,String s2){  
-        List<String>sentence=new ArrayList<>();
-        Collections.addAll(sentence,s1.split(" "));
-        Collections.addAll(sentence,s2.split(" "));
-        List<String>unCommonWords=new ArrayList<>();
-        for (String w:sentence){
-            int count=0;
-            for (String compareWord:sentence){
-                if(w.equals(compareWord)){
-                    count++;
-                }
-            }
-            if (count==1){
-                unCommonWords.add(w);
-            }
+import java.util.*;
+class Solution{
+    public String[]uncommonFromSentences(String s1,String s2){
+        Map<String,Integer>countMap=new HashMap<>();  
+        for (String word:s1.split(" ")){
+            countMap.put(word,countMap.getOrDefault(word,0)+1);
         }
-        String[]result=new String[unCommonWords.size()];
-        for(int i=0;i<unCommonWords.size();i++){
-            result[i]=unCommonWords.get(i);
+        for (String word:s2.split(" ")){
+            countMap.put(word,countMap.getOrDefault(word,0)+1);
         }
-        return result;   
+        List<String>result=new ArrayList<>();
+        for (String word:countMap.keySet()){
+            if(countMap.get(word)==1){
+                result.add(word);
+            }
+        }   
+        return result.toArray(new String[0]);
     }
 }
