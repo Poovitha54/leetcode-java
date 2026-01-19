@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Poovitha54/leetcode-java/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Poovitha54/leetcode-java/tree/master/1332-remove-palindromic-subsequences) |
 | [1360-number-of-days-between-two-dates](https://github.com/Poovitha54/leetcode-java/tree/master/1360-number-of-days-between-two-dates) |
+| [1370-increasing-decreasing-string](https://github.com/Poovitha54/leetcode-java/tree/master/1370-increasing-decreasing-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Poovitha54/leetcode-java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/Poovitha54/leetcode-java/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Poovitha54/leetcode-java/tree/master/1002-find-common-characters) |
+| [1370-increasing-decreasing-string](https://github.com/Poovitha54/leetcode-java/tree/master/1370-increasing-decreasing-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Poovitha54/leetcode-java/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Poovitha54/leetcode-java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Poovitha54/leetcode-java/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1370-increasing-decreasing-string](https://github.com/Poovitha54/leetcode-java/tree/master/1370-increasing-decreasing-string) |
 ## Depth-First Search
 |  |
 | ------- |
