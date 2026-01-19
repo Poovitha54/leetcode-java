@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Poovitha54/leetcode-java/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/Poovitha54/leetcode-java/tree/master/1002-find-common-characters) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Poovitha54/leetcode-java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1408-string-matching-in-an-array](https://github.com/Poovitha54/leetcode-java/tree/master/1408-string-matching-in-an-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Poovitha54/leetcode-java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Poovitha54/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Poovitha54/leetcode-java/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/Poovitha54/leetcode-java/tree/master/1332-remove-palindromic-subsequences) |
 | [1360-number-of-days-between-two-dates](https://github.com/Poovitha54/leetcode-java/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/Poovitha54/leetcode-java/tree/master/1370-increasing-decreasing-string) |
+| [1408-string-matching-in-an-array](https://github.com/Poovitha54/leetcode-java/tree/master/1408-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poovitha54/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Poovitha54/leetcode-java/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Poovitha54/leetcode-java/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/Poovitha54/leetcode-java/tree/master/1408-string-matching-in-an-array) |
 ## Union Find
 |  |
 | ------- |
