@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Poovitha54/leetcode-java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Poovitha54/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Poovitha54/leetcode-java/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Poovitha54/leetcode-java/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3454-separate-squares-ii](https://github.com/Poovitha54/leetcode-java/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Poovitha54/leetcode-java/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Poovitha54/leetcode-java/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Poovitha54/leetcode-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Poovitha54/leetcode-java/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Recursion
 |  |
 | ------- |
